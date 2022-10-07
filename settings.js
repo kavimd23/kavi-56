@@ -36,31 +36,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
+global.vcardowner = ['94789634207'] //ur owner number
+global.ownername = "ME KAVIYA" //ur owner name
+global.ytname = "YT: MR KAVIYA" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
+global.owner = ['94789634207']
+global.ownertag = '94789634207' //ur tag number
+global.botnumber = '94773312229' //Add your Bot Number For Log
+global.botname = 'KAVI-BETA EDITION' //ur bot name
+global.ig = "https://wa.me/qr/GHEOA2NHOITAJ1" //your theme url which will be displayed on whatsapp
+global.myweb = "https://kavimd.epizy.com/" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
+global.themeemoji = "🤭" //ur theme emoji
+global.packname = "KAVI-BETA EDITION" //ur sticker watermark packname
+global.author = "KAVI-BETA EDITION" //ur sticker watermark author
+global.footer = "® be KAVI-BETA EDITION"
+global.aliveimg ="https://telegra.ph/file/d350b00326e70f1ddac57.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.welcomeimg= "https://telegra.ph/file/d350b00326e70f1ddac57.jpg"
+global.gbyeimg = "https://telegra.ph/file/d350b00326e70f1ddac57.jpg"
+global.alivemsg = " සැම විටම අන් අයට සවන් දෙන්න.. ඔව්න්ගෙ මානසික පීඩනය තෙරැම් ගෙන ඔව්න් සමග කටයුතු කරන්න 🙏..\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94789634207'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -103,9 +103,9 @@ global.mess = {
     group: '✉️✏️ _Feature Used Only For Groups!_',
     private: '✉️✏️ _Features Used Only For Private Chat!_',
     bot: '✉️✏️ _This Feature Is Only For Bot_',
-    wait: '✉️✏️ _Processing Please Wait..._',
+    wait: '🙃 _Processing Please Wait..._',
     linkm: '📧✏️ _Where is the link?_',
-    error: '✉️🤕 ```Error!!```',
+    error: '🤕 ```Error!!```',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
